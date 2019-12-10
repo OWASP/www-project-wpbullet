@@ -17,6 +17,7 @@ type: tool
 <table>
 <tbody>
 <tr class="odd">
+<p>Template:Project About</p></td>
 <td><p>project_name = WpBullet</p></td>
 <h2 id="description">Description</h2>
 <p>OWASP wpBullet is an opensource software that was developed for identifying security vulnerabilities in WordPress plugins and themes. It was built following flexible patterns to allow maximum flexibility and ease of creating new detection rules. Beside analyzing source code for vulnerabilities, this tool will also map all exposed hooks which give a researcher a good starting point where to look for flaws.</p>
