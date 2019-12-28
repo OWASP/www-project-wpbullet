@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Luka Sikic](mailto://)
+* [Luka Sikic](mailto:)
